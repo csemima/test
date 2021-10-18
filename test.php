@@ -5,4 +5,7 @@ for($i=0;$i<10;$i++){
 }
 
 echo "aaaa";
+
+echo "log1";
+
 ?>
