@@ -8,4 +8,6 @@ echo "aaaa";
 
 echo "log1";
 
+echo "log10";
+
 ?>
