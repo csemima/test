@@ -8,6 +8,8 @@ echo "aaaa";
 
 echo "log1";
 
+$a = 100;
+
 echo "log10";
 
 echo "log100";
@@ -15,4 +17,5 @@ echo "log100";
 while(1){
     $git=1;
 }
+echo $a;
 ?>
