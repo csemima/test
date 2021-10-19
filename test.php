@@ -11,4 +11,8 @@ echo "log1";
 echo "log10";
 
 echo "log100";
+
+while(1){
+    $git=1;
+}
 ?>
